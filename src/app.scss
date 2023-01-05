@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 50px;
+  width: 100%;
+
+  & .header__all {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    & li {
+      margin: 0 10px;
+      text-decoration: none;
+      list-style: none;
+      font-size: 1.5rem;
+
+      & a {
+        text-decoration: none;
+        color: rgba(81, 80, 81, 0.267);
+
+        &:hover {
+          color: rgba(55, 55, 55, 0.388);
+        }
+      }
+    }
+  }
+}

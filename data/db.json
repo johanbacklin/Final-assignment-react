@@ -1,0 +1,173 @@
+{
+  "all-number-plates": [
+    {
+      "id": 2,
+      "number": "ABC-1235",
+      "price": 1000,
+      "sold": false,
+      "owner": "Jonas Flanell",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 3,
+      "number": "ABC-1236",
+      "price": 1000,
+      "sold": false,
+      "owner": "Tommy Ridders",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 4,
+      "number": "ABC-1237",
+      "price": 1000,
+      "sold": false,
+      "owner": "Göran Beck",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 5,
+      "number": "ABC-1238",
+      "price": 1000,
+      "sold": false,
+      "owner": "Peter Höstack",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 6,
+      "number": "ABC-1239",
+      "price": 1000,
+      "sold": false,
+      "owner": "Alva Eztung",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 7,
+      "number": "ABC-1240",
+      "price": 1000,
+      "sold": false,
+      "owner": "Taher Burgundy",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 8,
+      "number": "ABC-1241",
+      "price": 1000,
+      "sold": false,
+      "owner": "Eva Guldbrandsson",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 9,
+      "number": "ABC-1242",
+      "price": 1000,
+      "sold": false,
+      "owner": "Marie Göransson",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 10,
+      "number": "ABC-1243",
+      "price": 1000,
+      "sold": false,
+      "owner": "Rami Alshikh",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 11,
+      "number": "ABC-1244",
+      "price": 1000,
+      "sold": false,
+      "owner": "Sebastian Duved",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 12,
+      "number": "ABC-1245",
+      "price": 1000,
+      "sold": false,
+      "owner": "Johanna Jönsson",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 13,
+      "number": "ABC-1246",
+      "price": 1000,
+      "sold": false,
+      "owner": "Sara Lahtinen",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 14,
+      "number": "ABC-1247",
+      "price": 1000,
+      "sold": false,
+      "owner": "Erik Karlsbogård",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 15,
+      "number": "ABC-1248",
+      "price": 1000,
+      "sold": false,
+      "owner": "Carl Svensson",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 16,
+      "number": "ABC-1249",
+      "price": 1000,
+      "sold": false,
+      "owner": "Leo Olsson",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "id": 17,
+      "number": "ABC-1250",
+      "price": 1000,
+      "sold": false,
+      "owner": "Amanda Bernhardsson",
+      "country": "Sweden",
+      "year": "2000",
+      "region": "Eskilstuna"
+    },
+    {
+      "owner": "Johan ",
+      "number": "BTS",
+      "country": "JOhan",
+      "region": "Esklstuna",
+      "year": "200",
+      "price": "20.000",
+      "id": 18
+    }
+  ]
+}
